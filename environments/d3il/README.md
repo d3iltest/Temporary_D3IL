@@ -1,13 +1,6 @@
 # D3IL Simulation Framework
 This project contains the D3IL simulation environments code. 
 
-
-## Installation
-```
-# assuming you already have conda installed
-bash install.sh
-```
-
 ## File System
 
 ```
